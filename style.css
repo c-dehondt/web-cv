@@ -20,6 +20,7 @@ header p{
 }
 h2{
   color:#00ced1;
+  text-align: center;git
 }
 section{
   background-color: white;
@@ -40,8 +41,9 @@ nav{
   padding-left:1%;
 }
 h2{
-  border:5px solid 25%;
-  border-radius:15px
+  border:2px solid;
+  border-radius:15px;
+  border:50%;
 }
 li{
 list-style-type: none;
