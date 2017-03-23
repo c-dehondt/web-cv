@@ -63,3 +63,9 @@ list-style-type: none;
 article ul{
   display: inline-block;
 }
+a:visited{
+  color:#353565;
+}
+a:hover{
+  color:#00ced1;
+}
