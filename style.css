@@ -18,6 +18,15 @@ header img{
 header p{
   font-size: 15px;
 }
+.contact{
+  font-size:60%;
+  position: absolute;
+  top:0.2%;
+  left:6%;
+}
+.h2{
+  color: white;
+}
 h1{
   text-shadow: 1px 1px 6px black;
 }
@@ -48,7 +57,9 @@ nav{
   top: 30%;
   padding-left:1%;
 }
-
 li{
 list-style-type: none;
+}
+article ul{
+  display: inline-block;
 }
